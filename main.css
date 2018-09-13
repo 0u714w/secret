@@ -1,0 +1,38 @@
+img {
+    width: 50%;
+    margin: auto;
+}
+
+#main {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#winner {
+    font-family: 'Hanalei';
+    font-size: 48px;
+}
+
+#button {
+    font-family: 'SNES';
+    color: #74F88A;
+    font-size: 48px;
+    border: 2px solid white;
+    background-color: #906DF2;
+    margin: auto;
+    width: 50%;
+}
+
+#reset {
+    font-family: 'SNES';
+    color: #EB4A68;
+    font-size: 48px;
+    border: 2px solid white;
+    background-color: #1A2C7F;
+    margin: auto;
+    width: 50%;
+}
+
+@font-face {
+    font-family: 'SNES';
+    src: url('snes');
+}
