@@ -13,7 +13,7 @@ img {
 }
 
 #button {
-    font-family: 'SNES';
+    font-family: 'Hanalei';
     color: #74F88A;
     font-size: 48px;
     border: 2px solid white;
@@ -23,16 +23,11 @@ img {
 }
 
 #reset {
-    font-family: 'SNES';
+    font-family: 'Hanalei';
     color: #EB4A68;
     font-size: 48px;
     border: 2px solid white;
     background-color: #1A2C7F;
     margin: auto;
     width: 50%;
-}
-
-@font-face {
-    font-family: 'SNES';
-    src: url('snes');
 }
