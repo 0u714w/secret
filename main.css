@@ -1,6 +1,7 @@
 img {
     width: 50%;
     margin: auto;
+    
 }
 
 #main {
@@ -13,8 +14,8 @@ img {
 }
 
 #button {
-    font-family: 'Hanalei';
-    color: #74F88A;
+    font-family: 'MuseoModerno', cursive;;
+    color: white;
     font-size: 48px;
     border: 2px solid white;
     background-color: #906DF2;
@@ -23,11 +24,19 @@ img {
 }
 
 #reset {
-    font-family: 'Hanalei';
-    color: #EB4A68;
-    font-size: 48px;
+    font-family: 'MuseoModerno', cursive;;
+    color: #906DF2;
+    font-size: 28px;
     border: 2px solid white;
     background-color: #1A2C7F;
+    
     margin: auto;
     width: 50%;
+}
+
+body {
+    margin: auto;
+    width: 50%;
+    background-image: url("https://i.pinimg.com/474x/56/2e/ec/562eeca8354a023df168eb9e1c516821--minimalist-wallpaper-iphone-backgrounds.jpg");
+    
 }
